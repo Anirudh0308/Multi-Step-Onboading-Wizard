@@ -21,6 +21,9 @@ npm install
 npm run dev
 ```
 
+# Tech Stack 
+React + css + html
+
 ## 📸 Screenshot
 
 ![App Screenshot](./src/Assets/Business.png)
